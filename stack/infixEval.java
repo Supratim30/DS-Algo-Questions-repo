@@ -5,6 +5,10 @@ public class MyClass {
      Scanner scn = new Scanner(System.in);
      String exp = scn.nextLine();
 
+        // Approach
+        
+        
+        
     // code
     Stack<Integer> operands = new Stack<>();
     Stack<Character> operators = new Stack<>();
